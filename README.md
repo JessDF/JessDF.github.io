@@ -1,7 +1,7 @@
-<h1 style="text-align: center;">Welcome</h1>
+<h2 style="text-align: center;">Welcome</h2>
 
-For more information on my projects visit: https://jessdf.github.io/portfolio-jessie/
+For more information on my projects visit: <a href="https://jessdf.github.io/portfolio-jessie/">https://jessdf.github.io/portfolio-jessie/</a>
 
-For my linkedin visit: https://www.linkedin.com/in/jessiedowding/
+For my linkedin visit: <a href="https://www.linkedin.com/in/jessiedowding/">https://www.linkedin.com/in/jessiedowding/</a>
 
-Main GitHub: https://github.com/JessDF
+Main GitHub: <a href="https://github.com/JessDF">https://github.com/JessDF</a>
